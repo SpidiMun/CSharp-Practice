@@ -1,0 +1,13 @@
+C:\RepositoryForCSharp\StringAndArray\StringAndArray\bin\Debug\netcoreapp3.1\StringAndArray.exe
+C:\RepositoryForCSharp\StringAndArray\StringAndArray\bin\Debug\netcoreapp3.1\StringAndArray.deps.json
+C:\RepositoryForCSharp\StringAndArray\StringAndArray\bin\Debug\netcoreapp3.1\StringAndArray.runtimeconfig.json
+C:\RepositoryForCSharp\StringAndArray\StringAndArray\bin\Debug\netcoreapp3.1\StringAndArray.runtimeconfig.dev.json
+C:\RepositoryForCSharp\StringAndArray\StringAndArray\bin\Debug\netcoreapp3.1\StringAndArray.dll
+C:\RepositoryForCSharp\StringAndArray\StringAndArray\bin\Debug\netcoreapp3.1\StringAndArray.pdb
+C:\RepositoryForCSharp\StringAndArray\StringAndArray\obj\Debug\netcoreapp3.1\StringAndArray.csprojAssemblyReference.cache
+C:\RepositoryForCSharp\StringAndArray\StringAndArray\obj\Debug\netcoreapp3.1\StringAndArray.AssemblyInfoInputs.cache
+C:\RepositoryForCSharp\StringAndArray\StringAndArray\obj\Debug\netcoreapp3.1\StringAndArray.AssemblyInfo.cs
+C:\RepositoryForCSharp\StringAndArray\StringAndArray\obj\Debug\netcoreapp3.1\StringAndArray.csproj.CoreCompileInputs.cache
+C:\RepositoryForCSharp\StringAndArray\StringAndArray\obj\Debug\netcoreapp3.1\StringAndArray.dll
+C:\RepositoryForCSharp\StringAndArray\StringAndArray\obj\Debug\netcoreapp3.1\StringAndArray.pdb
+C:\RepositoryForCSharp\StringAndArray\StringAndArray\obj\Debug\netcoreapp3.1\StringAndArray.genruntimeconfig.cache
