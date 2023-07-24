@@ -1,0 +1,13 @@
+C:\RepositoryForCSharp\DataTypes2\DataTypes2\bin\Debug\netcoreapp3.1\DataTypes2.exe
+C:\RepositoryForCSharp\DataTypes2\DataTypes2\bin\Debug\netcoreapp3.1\DataTypes2.deps.json
+C:\RepositoryForCSharp\DataTypes2\DataTypes2\bin\Debug\netcoreapp3.1\DataTypes2.runtimeconfig.json
+C:\RepositoryForCSharp\DataTypes2\DataTypes2\bin\Debug\netcoreapp3.1\DataTypes2.runtimeconfig.dev.json
+C:\RepositoryForCSharp\DataTypes2\DataTypes2\bin\Debug\netcoreapp3.1\DataTypes2.dll
+C:\RepositoryForCSharp\DataTypes2\DataTypes2\bin\Debug\netcoreapp3.1\DataTypes2.pdb
+C:\RepositoryForCSharp\DataTypes2\DataTypes2\obj\Debug\netcoreapp3.1\DataTypes2.csprojAssemblyReference.cache
+C:\RepositoryForCSharp\DataTypes2\DataTypes2\obj\Debug\netcoreapp3.1\DataTypes2.AssemblyInfoInputs.cache
+C:\RepositoryForCSharp\DataTypes2\DataTypes2\obj\Debug\netcoreapp3.1\DataTypes2.AssemblyInfo.cs
+C:\RepositoryForCSharp\DataTypes2\DataTypes2\obj\Debug\netcoreapp3.1\DataTypes2.csproj.CoreCompileInputs.cache
+C:\RepositoryForCSharp\DataTypes2\DataTypes2\obj\Debug\netcoreapp3.1\DataTypes2.dll
+C:\RepositoryForCSharp\DataTypes2\DataTypes2\obj\Debug\netcoreapp3.1\DataTypes2.pdb
+C:\RepositoryForCSharp\DataTypes2\DataTypes2\obj\Debug\netcoreapp3.1\DataTypes2.genruntimeconfig.cache
