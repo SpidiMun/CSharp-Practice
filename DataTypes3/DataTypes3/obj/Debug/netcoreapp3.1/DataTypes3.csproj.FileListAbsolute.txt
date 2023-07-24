@@ -1,0 +1,13 @@
+C:\RepositoryForCSharp\DataTypes3\DataTypes3\bin\Debug\netcoreapp3.1\DataTypes3.exe
+C:\RepositoryForCSharp\DataTypes3\DataTypes3\bin\Debug\netcoreapp3.1\DataTypes3.deps.json
+C:\RepositoryForCSharp\DataTypes3\DataTypes3\bin\Debug\netcoreapp3.1\DataTypes3.runtimeconfig.json
+C:\RepositoryForCSharp\DataTypes3\DataTypes3\bin\Debug\netcoreapp3.1\DataTypes3.runtimeconfig.dev.json
+C:\RepositoryForCSharp\DataTypes3\DataTypes3\bin\Debug\netcoreapp3.1\DataTypes3.dll
+C:\RepositoryForCSharp\DataTypes3\DataTypes3\bin\Debug\netcoreapp3.1\DataTypes3.pdb
+C:\RepositoryForCSharp\DataTypes3\DataTypes3\obj\Debug\netcoreapp3.1\DataTypes3.csprojAssemblyReference.cache
+C:\RepositoryForCSharp\DataTypes3\DataTypes3\obj\Debug\netcoreapp3.1\DataTypes3.AssemblyInfoInputs.cache
+C:\RepositoryForCSharp\DataTypes3\DataTypes3\obj\Debug\netcoreapp3.1\DataTypes3.AssemblyInfo.cs
+C:\RepositoryForCSharp\DataTypes3\DataTypes3\obj\Debug\netcoreapp3.1\DataTypes3.csproj.CoreCompileInputs.cache
+C:\RepositoryForCSharp\DataTypes3\DataTypes3\obj\Debug\netcoreapp3.1\DataTypes3.dll
+C:\RepositoryForCSharp\DataTypes3\DataTypes3\obj\Debug\netcoreapp3.1\DataTypes3.pdb
+C:\RepositoryForCSharp\DataTypes3\DataTypes3\obj\Debug\netcoreapp3.1\DataTypes3.genruntimeconfig.cache
