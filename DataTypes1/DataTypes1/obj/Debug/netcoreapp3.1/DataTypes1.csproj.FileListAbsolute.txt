@@ -1,0 +1,13 @@
+C:\RepositoryForCSharp\DataTypes1\DataTypes1\bin\Debug\netcoreapp3.1\DataTypes1.exe
+C:\RepositoryForCSharp\DataTypes1\DataTypes1\bin\Debug\netcoreapp3.1\DataTypes1.deps.json
+C:\RepositoryForCSharp\DataTypes1\DataTypes1\bin\Debug\netcoreapp3.1\DataTypes1.runtimeconfig.json
+C:\RepositoryForCSharp\DataTypes1\DataTypes1\bin\Debug\netcoreapp3.1\DataTypes1.runtimeconfig.dev.json
+C:\RepositoryForCSharp\DataTypes1\DataTypes1\bin\Debug\netcoreapp3.1\DataTypes1.dll
+C:\RepositoryForCSharp\DataTypes1\DataTypes1\bin\Debug\netcoreapp3.1\DataTypes1.pdb
+C:\RepositoryForCSharp\DataTypes1\DataTypes1\obj\Debug\netcoreapp3.1\DataTypes1.AssemblyInfoInputs.cache
+C:\RepositoryForCSharp\DataTypes1\DataTypes1\obj\Debug\netcoreapp3.1\DataTypes1.AssemblyInfo.cs
+C:\RepositoryForCSharp\DataTypes1\DataTypes1\obj\Debug\netcoreapp3.1\DataTypes1.csproj.CoreCompileInputs.cache
+C:\RepositoryForCSharp\DataTypes1\DataTypes1\obj\Debug\netcoreapp3.1\DataTypes1.dll
+C:\RepositoryForCSharp\DataTypes1\DataTypes1\obj\Debug\netcoreapp3.1\DataTypes1.pdb
+C:\RepositoryForCSharp\DataTypes1\DataTypes1\obj\Debug\netcoreapp3.1\DataTypes1.genruntimeconfig.cache
+C:\RepositoryForCSharp\DataTypes1\DataTypes1\obj\Debug\netcoreapp3.1\DataTypes1.csprojAssemblyReference.cache
